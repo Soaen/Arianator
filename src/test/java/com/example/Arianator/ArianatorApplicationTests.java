@@ -1,10 +1,10 @@
-package com.example.HelloSpringBoot;
+package com.example.Arianator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HelloSpringBootApplicationTests {
+class ArianatorApplicationTests {
 
 	@Test
 	void contextLoads() {
