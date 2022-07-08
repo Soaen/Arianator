@@ -3,8 +3,8 @@ h1 {
     text-align: center;
     font-size: 10em;
     padding: 280px 0;
-    font: small-caps sans-serif;
-    
+    font-family: small-caps, sans-serif;
+
 }
 html{
 	background-image: url('https://media-mcetv.ouest-france.fr/wp-content/uploads/2022/05/ariana-grande-a-rendu-hommage-aux-victimes-de-lattentat-de-manchester-1200-min.jpg');
